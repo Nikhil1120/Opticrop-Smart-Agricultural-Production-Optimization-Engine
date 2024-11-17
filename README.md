@@ -4,6 +4,12 @@ OptiCrop is a data-driven software system that helps optimize agricultural produ
 # Project Description
 The OptiCrop project aims to improve agricultural practices by using machine learning to provide intelligent crop production recommendations. By analyzing various environmental factors and crop characteristics, OptiCrop optimizes the resource usage (water, fertilizer, etc.) and increases crop yields.
 
+
+
+![image](https://github.com/user-attachments/assets/0fcf8ca9-b264-4047-91cd-0c014352a43a)
+
+
+
 # Key Features:
 Smart Recommendations: Suggests optimal production practices based on environmental conditions.
 Data-Driven Insights: Uses historical and current data to forecast crop yields and recommend best practices.
