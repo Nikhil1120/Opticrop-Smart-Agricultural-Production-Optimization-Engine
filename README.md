@@ -140,8 +140,8 @@ This project is licensed under the MIT License.
 # Contact
 For any questions or feedback, feel free to contact:
 
-Email: example@example.com
-GitHub: your-username
+Email: nikhilt1120@gmail.com.com
+GitHub: https://github.com/Nikhil1120
 # Acknowledgements
 Thanks to the agricultural datasets and open-source tools that made this project possible.
 Special thanks to the data science and AI community for the inspiration and support in implementing this project.
