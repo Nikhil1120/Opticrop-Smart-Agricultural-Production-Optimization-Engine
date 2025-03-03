@@ -144,4 +144,4 @@ Email: nikhilt1120@gmail.com.com
 GitHub: https://github.com/Nikhil1120
 # Acknowledgements
 Thanks to the agricultural datasets and open-source tools that made this project possible.
-Special thanks to the data science and AI community for the inspiration and support in implementing this project.
+Special thanks to the SmartInternz and My College (Vaagdevi Engineering College) for the inspiration and support in implementing this project.
